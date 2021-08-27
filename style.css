@@ -1,0 +1,17 @@
+.color__black{
+    background-color: black;
+}
+.color__blue{
+    background-color: blue;
+}
+.color__green{
+    background-color: green;
+}
+.color__red{
+    background-color: red;
+}
+
+button{
+    padding: 20px;
+    margin: 25px;
+}
