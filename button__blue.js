@@ -1,5 +1,5 @@
-const btn2 = document.querySelector('.btn_blue');
+const btn3 = document.querySelector('.btn_blue');
 
-btn2.addEventListener('click', () => {
+btn3.addEventListener('click', () => {
     body.className = 'color__blue';
 })
